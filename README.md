@@ -1,2 +1,2 @@
 # React-Redux
-Working around with react-redux
+Playing around with react-redux
